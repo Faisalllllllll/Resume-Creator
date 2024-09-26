@@ -1,2 +1,2 @@
-# Resume-Creator
-It is a Resume Creator which takes all required information from the user and generates a template with it.
+# Alphom
+this is the minor project in tpi colleg made by 25,26,27,22,23,24.
