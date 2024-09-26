@@ -1,2 +1,1 @@
-# Alphom
-this is the minor project in tpi colleg made by 25,26,27,22,23,24.
+This was a minor project of my Polytechnic journey and created in group pf 6.
